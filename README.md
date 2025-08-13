@@ -26,9 +26,8 @@ ZAPI_TOKEN=EB09B01BDC38323D70D8E8E4
 
 No terminal, instale as dependências (recomendo usar um ambiente virtual):
 
-```bash
 pip install -r requirements.txt
 
 Depois, execute:
-
+```bash
 python main.py
